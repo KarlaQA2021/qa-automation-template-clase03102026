@@ -21,7 +21,7 @@ public class LoginTest {
             driver.manage().window().maximize();
 
             // Login
-            driver.findElement(By.id("username"))
+           driver.findElement(By.id("username"))
                     .sendKeys("student");
 
             driver.findElement(By.id("password"))
