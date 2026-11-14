@@ -121,6 +121,7 @@ public class T004ValidarFormulario {
         "El mensaje encontrado no es el correcto");
     }
 
+//proyecto abierto desde mi segunda laptop
 
     @AfterEach 
         public void cerrarSesion(){
